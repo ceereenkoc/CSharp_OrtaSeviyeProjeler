@@ -1,5 +1,5 @@
-# **CSharp_KolaySeviyeProjeler**
-Kolay seviye çeşitli C# projeleri
+# **CSharp_OrtaKolaySeviyeProjeler**
+Orta seviye çeşitli C# projeleri
 
 ### Patika adresim:
 https://app.patika.dev/cerenimo
